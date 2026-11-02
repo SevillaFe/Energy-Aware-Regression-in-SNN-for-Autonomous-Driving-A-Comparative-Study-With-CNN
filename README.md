@@ -1,4 +1,4 @@
-# Scripts_Paper_nergy-Aware Regression in Spiking Neural Networks for Autonomous Driving: A Comparative Study With Convolutional Networks
+# Scripts for Paper: Energy-Aware Regression in Spiking Neural Networks for Autonomous Driving: A Comparative Study With Convolutional Networks
 
 Repository with code used for experiments and analysis in the published article:
 
